@@ -126,7 +126,7 @@ $(function() {
 $(function() {  
   $('#h1_1').html('<font color="#C8EBFF">帶你星空漫遊 探索十二星座奧秘</font>');
   $('#h1_2').html('<font color="#C8EBFF">星星所守護的星座</font>');
-  $('#h1_3').html('<font color="#C8EBFF">2020 超前部署！這三個星座土逆意外好運</font>');
+  $('#h1_3').html('<font color="#C8EBFF">2020！這三個星座意外好運</font>');
 });  
 $(function() {  
   $('#h1p_1').html("星座的傳說、占星術都是很早之前就存在的，古老的發明如今瘋狂流行，恰恰印證了星座也是影響人們性格特點的重要因素。");
