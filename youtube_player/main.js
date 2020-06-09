@@ -5,8 +5,8 @@ function onYouTubeIframeAPIReady(){
 
     player = new YT.Player("player",
         {
-            height:"300",
-            width:"100%",
+            height:"90%",
+            width:"90%",
             videoId:playList[currentPlay],
             playerVars:{
                 "autoplay":0,
